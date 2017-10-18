@@ -5,7 +5,7 @@ import tweepy
 import time
 from random import randint
 
-# Twitter security codes
+
 access_token = '918949035679059968-nl7doP8afLkozIxGlbzzyZ1ClerLjH6'
 access_token_secret = '2RuLnTmxk1ecPDpzzrMH95uL3ANJVCSxGhxvuXnrRjYs7'
 consumer_key = 'kUcbGw7SeClP5JH0MT1WeasZU'
